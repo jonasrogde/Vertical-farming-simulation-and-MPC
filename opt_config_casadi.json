@@ -1,0 +1,12 @@
+{
+    "N_horizon": 72,
+    "ts":   3600,
+    "solver": "ipopt",
+
+    "T_max": 24,
+    "T_min": 20,
+
+    "closed_loop": 1,
+    "plot_every_stage": 1,
+    "states_labels": ["$T_{in}$", "$T_{env}$", "$Chi_{in}$", "$CO2_{in}$"]
+}

@@ -1,0 +1,22 @@
+{
+    "T_desired": 24,
+    "RH_desired": 80,
+    "CO2_desired": 1200,
+
+    "cycle_duration_days": 20,
+
+    "A_env": 48,
+    "A_crop": 27,
+    "V_in": 36,
+    "V_hvac": 2.88,
+    "eta_light": 0.5,
+    "u_sup_max": 0.192,
+    "PPFD_max": 250,
+
+    "eta_rot_T": 0.8,
+    "eta_rot_Chi": 0.8,
+    "heating_capacity": 500,
+    "cooling_capacity": 500,
+    "u_humid_max": 0.001,
+    "u_c_inj_max": 0.2
+}

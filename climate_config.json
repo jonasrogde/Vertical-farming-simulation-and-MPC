@@ -1,0 +1,18 @@
+{
+  "p": 101325,
+  "alpha_env": 2,
+  "alpha_ext": 0.5,
+  "air_vel": 0.15,
+  "c_air": 1004,
+  "c_water": 1846,
+  "rho_env": 122,
+  "c_env": 1500,
+  "x_env": 0.1,
+  "C_hvac": 4500,
+  "c_duct": 418.7,
+  "rho_air":1.2,
+  "lambda": 2450,
+  "CO2_out": 400,
+  "rho_c": 1.893,
+  "c_r": 0.05
+}
